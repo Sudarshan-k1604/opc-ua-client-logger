@@ -32,13 +32,13 @@ If these commands return version numbers, you are ready to proceed.
    - Download the project files as a ZIP archive and extract them to a folder on your computer.  
    - Alternatively, if you have Git installed, clone the repository:
      ```bash
-     git clone https://github.com/your-username/opc-ua-client-logger.git
+     git clone https://github.com/Sudarshan-k1604/opc-ua-client-logger.git
      ```
 
 2. **Open the Project Directory:**
    - Navigate into the project folder using your terminal or command prompt.
      ```bash
-     cd path/to/opc-ua-client-logger
+     cd opc-ua-client-logger
      ```
 
 3. **Install Dependencies:**
